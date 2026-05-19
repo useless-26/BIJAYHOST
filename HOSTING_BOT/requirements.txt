@@ -1,7 +1,0 @@
-pyrofork
-TgCrypto-pyrofork
-pymongo
-python-dotenv
-psutil
-motor
-requests
